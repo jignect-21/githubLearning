@@ -6,7 +6,7 @@ I learned how to clone, commit, and push changes.
 ## Day 3
 I am learning how to use branches in Git.
 
-This line is different in conflict-branch.
+This line will be added in main branch.abcd
 
 
 
