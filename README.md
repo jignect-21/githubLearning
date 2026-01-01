@@ -10,6 +10,7 @@ I am learning how to use branches in Git.
 This line will cause conflict.123456789
 
 This line will be added in main brancd
+This line will be added in main br
 
 
 
